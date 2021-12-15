@@ -4,7 +4,7 @@ $(document).ready(function () {
   $(".banner-slider").slick({
     arrows: false,
     dots: true,
-    autoplay: false,
+    autoplay: true,
     pauseOnHover: false,
   }, 1500);
 
